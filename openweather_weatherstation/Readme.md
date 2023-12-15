@@ -1,5 +1,10 @@
 # ESP8266 Weather Station with OLED Display
 
+This project enables you to build a weather station using an ESP8266 microcontroller and an OLED display. By connecting to the OpenWeatherMap API, the station retrieves weather data and displays it on the OLED screen. Follow the guide below for hardware setup, code installation, and customization options.
+
+[Weather_Station](https://github.com/Azhilus/16bitmcu/assets/66466976/536006e6-b98c-4b2f-84fa-7332aca1f5a7){ width=300 }
+
+
 ## Hardware Requirements
 
 1. **ESP8266 Board**: We'll use an ESP8266-based microcontroller, such as NodeMCU or Wemos D1 Mini.
