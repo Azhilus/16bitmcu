@@ -1,7 +1,8 @@
 # OLED Display with Adafruit SSD1306 and GFX Library
 
 This Arduino sketch demonstrates the usage of the Adafruit SSD1306 and GFX libraries to control a 128x64 OLED display. The code includes various examples to showcase text rendering, font size manipulation, and displaying numbers on the OLED screen.
-![Oled_test](https://github.com/Azhilus/16bitmcu/assets/66466976/f0c5025b-e6c8-44fb-9a75-58756a0bf295)
+
+<img src="https://github.com/Azhilus/16bitmcu/assets/66466976/f0c5025b-e6c8-44fb-9a75-58756a0bf295" alt="Oled_test" width="300">
 
 ## Board Compatibility
 
