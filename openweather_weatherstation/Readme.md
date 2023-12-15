@@ -4,6 +4,9 @@ This project enables you to build a weather station using an ESP8266 microcontro
 
 <img src="(https://github.com/Azhilus/16bitmcu/assets/66466976/f0c5025b-e6c8-44fb-9a75-58756a0bf295)" alt="Weather_Station" width="300">
 
+![Weather_Station](https://github.com/Azhilus/16bitmcu/assets/66466976/0a2bef14-5215-43a8-8ee0-08c92b4af788)
+
+
 
 ## Hardware Requirements
 
