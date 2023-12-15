@@ -46,4 +46,4 @@ If you have improvements or additional features to suggest, feel free to fork th
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Happy Tinkereing!
+Happy Tinkering!
