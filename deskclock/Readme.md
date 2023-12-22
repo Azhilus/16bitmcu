@@ -2,7 +2,7 @@
 
 This Arduino sketch creates a WiFi-enabled desk clock using an OLED display (Adafruit SSD1306) and utilizes the NTPClient library for time synchronization. Additionally, it fetches real-time weather information from the OpenWeatherMap API and displays it on the OLED screen.
 
-![WiFi Desk Clock](link-to-image)
+<img src="https://github.com/Azhilus/16bitmcu/assets/66466976/bf6e5d31-f0b6-4a12-a149-4b6f75876a1d" alt="Oled_test" width="300">
 
 ## Board Compatibility
 
