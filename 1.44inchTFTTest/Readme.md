@@ -2,7 +2,7 @@
 
 This Arduino sketch demonstrates a simple display test for a TFT screen using the Adafruit ST7735 library. The code is designed to work with various Arduino boards and can be adapted to different TFT displays.
 
-![TFT Display Test](insert_image_url_here)
+<img src="https://github.com/Azhilus/16bitmcu/assets/66466976/7f012556-eea8-4387-9870-e1bfaa47f878" alt="NTPCLOCK" width="300">
 
 ## Board Compatibility
 
